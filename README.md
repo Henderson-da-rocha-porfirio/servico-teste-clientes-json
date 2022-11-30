@@ -7,7 +7,9 @@
 > 
 > Visite https://my-json-server.typicode.com/seu-usuario/sua-repo para acessar o seu servidor fake para testes
 > 
-> Exemplo: https://my-json-server.typicode.com/henderson-da-rocha-porfirio/servico-teste-clientes-json
+> Exemplo: https://my-json-server.typicode.com/henderson-da-rocha-porfirio/servico-teste-clientes-json/profile (aqui é usado profile mas veja outras possibilidades no link abaixo)
+>
+> Para ver no terminal ou cmd, ex: curl https://my-json-server.typicode.com/henderson-da-rocha-porfirio/servico-teste-clientes-json/profile || json_pp
 >
 > Sem registro e sem instalação.
 >
